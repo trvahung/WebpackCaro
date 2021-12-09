@@ -1,0 +1,17 @@
+div {
+    margin: auto;
+    background-image: url("../image/bg.png");
+    height: 600px;
+    width: 600px;
+}
+
+.ceil {
+    height: 180px;
+    width: 180px;
+    margin: 9px 9px;
+}
+
+#result {
+    font-size: 20px;
+    margin: 0 auto;
+}
